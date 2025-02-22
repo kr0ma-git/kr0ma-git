@@ -41,6 +41,6 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/kr0ma-git/kr0ma-git/output/snake.svg" alt="Snake animation" />
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/sssfasih/sssfasih/output/github-contribution-grid-snake-dark.svg" />
 
 ###
