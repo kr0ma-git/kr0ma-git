@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kroma!</h1>
 <h3 align="center">An IT Student from the Philippines.</h3>
 
-- 🌱 I’m currently learning **PHP, C, MYSQL, HTML, and CSS**
+- 🌱 I’m currently learning **HTML, CSS, C, MySQL, and PHP**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
