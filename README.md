@@ -6,8 +6,6 @@
 - 🌱 I’m currently learning **HTML, CSS, C, MySQL, and PHP**
 - 📫 How to reach me **w4ynekousuke@gmail.com**
 
-<br>
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://codeforces.com/profile/kr0ma" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="kr0ma" height="30" width="40" /></a>
@@ -42,7 +40,7 @@
   </a> 
 </p>
 
-<br><hr>
+<br><hr><br>
 
 <h3 align="left">Github Activity:</h3>
 <div align="center">
