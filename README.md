@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kroma!</h1>
 <h3 align="center">An IT Student from the Philippines.</h3>
 
+<br>
+
 - 🌱 I’m currently learning **HTML, CSS, C, MySQL, and PHP**
+
+<br>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -37,6 +41,9 @@
   </a> 
 </p>
 
+<br><hr>
+
+<h3 align="left">Github Activity:</h3>
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=kr0ma-git&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kr0ma-git&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
@@ -44,6 +51,8 @@
 
 ###
 
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/sssfasih/sssfasih/output/github-contribution-grid-snake-dark.svg" />
+<div align="center">
+  <img alt="GitHub Snake" src="https://raw.githubusercontent.com/sssfasih/sssfasih/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 ###
