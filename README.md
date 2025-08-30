@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **C, Java**
+- 🌱 I’m currently learning **C, Java, and JavaScript**
 - 📫 How to reach me **w4ynekousuke@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
