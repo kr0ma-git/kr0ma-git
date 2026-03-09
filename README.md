@@ -3,7 +3,7 @@
 
 <br>
 
-- 🌱 I’m currently learning **C, Java, React, JavaScript, and TypeScript (also MERN)**
+- 🌱 I’m currently learning **Java, MERN Stack**
 - 📫 How to reach me **w4ynekousuke@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
